@@ -1,0 +1,49 @@
+{
+    "coord": {
+        "lon": 12.2797,
+        "lat": 46.7406
+    },
+    "weather": [
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "light snow",
+            "icon": "13n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 270.03,
+        "feels_like": 267.85,
+        "temp_min": 270.03,
+        "temp_max": 271.23,
+        "pressure": 1007,
+        "humidity": 96,
+        "sea_level": 1007,
+        "grnd_level": 845
+    },
+    "visibility": 142,
+    "wind": {
+        "speed": 1.49,
+        "deg": 55,
+        "gust": 2.43
+    },
+    "snow": {
+        "1h": 0.36
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1673845399,
+    "sys": {
+        "type": 2,
+        "id": 2011582,
+        "country": "IT",
+        "sunrise": 1673851855,
+        "sunset": 1673884178
+    },
+    "timezone": 3600,
+    "id": 3168508,
+    "name": "Innichen",
+    "cod": 200
+}
